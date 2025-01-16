@@ -38,7 +38,7 @@ AssertionError: '' != '#!/usr/bin/env python3'
  : your script does not have a correct shebang line (HINT: what should the first line contain)
 
 ----------------------------------------------------------------------
-Ran 12 tests in 0.108s
+Ran 12 tests in 0.065s
 
 FAILED (failures=1)
 OPS445 Lab Report - System Information for running ./CheckLab2.py
@@ -50,5 +50,5 @@ OPS445 Lab Report - System Information for running ./CheckLab2.py
     Python version:  3.12.3 (main, Nov  6 2024, 18:32:19) [GCC 13.2.0]
     OS Platform: linux
     Working Directory: /home/jdannuy/ops445/lab2/lab-2-jdannuy
-    Start at: Wed Jan 15 21:27:42 2025
+    Start at: Wed Jan 15 21:05:46 2025
 =================================================================
